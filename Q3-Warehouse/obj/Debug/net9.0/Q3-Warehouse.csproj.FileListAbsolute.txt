@@ -1,0 +1,15 @@
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q3-Warehouse\bin\Debug\net9.0\Q3-Warehouse.exe
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q3-Warehouse\bin\Debug\net9.0\Q3-Warehouse.deps.json
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q3-Warehouse\bin\Debug\net9.0\Q3-Warehouse.runtimeconfig.json
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q3-Warehouse\bin\Debug\net9.0\Q3-Warehouse.dll
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q3-Warehouse\bin\Debug\net9.0\Q3-Warehouse.pdb
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q3-Warehouse\obj\Debug\net9.0\Q3-Warehouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q3-Warehouse\obj\Debug\net9.0\Q3-Warehouse.AssemblyInfoInputs.cache
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q3-Warehouse\obj\Debug\net9.0\Q3-Warehouse.AssemblyInfo.cs
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q3-Warehouse\obj\Debug\net9.0\Q3-Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q3-Warehouse\obj\Debug\net9.0\Q3-Warehouse.sourcelink.json
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q3-Warehouse\obj\Debug\net9.0\Q3-Warehouse.dll
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q3-Warehouse\obj\Debug\net9.0\refint\Q3-Warehouse.dll
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q3-Warehouse\obj\Debug\net9.0\Q3-Warehouse.pdb
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q3-Warehouse\obj\Debug\net9.0\Q3-Warehouse.genruntimeconfig.cache
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q3-Warehouse\obj\Debug\net9.0\ref\Q3-Warehouse.dll
