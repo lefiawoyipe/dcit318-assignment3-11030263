@@ -1,0 +1,15 @@
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q5-InventoryLogger\bin\Debug\net9.0\Q5-InventoryLogger.exe
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q5-InventoryLogger\bin\Debug\net9.0\Q5-InventoryLogger.deps.json
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q5-InventoryLogger\bin\Debug\net9.0\Q5-InventoryLogger.runtimeconfig.json
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q5-InventoryLogger\bin\Debug\net9.0\Q5-InventoryLogger.dll
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q5-InventoryLogger\bin\Debug\net9.0\Q5-InventoryLogger.pdb
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q5-InventoryLogger\obj\Debug\net9.0\Q5-InventoryLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q5-InventoryLogger\obj\Debug\net9.0\Q5-InventoryLogger.AssemblyInfoInputs.cache
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q5-InventoryLogger\obj\Debug\net9.0\Q5-InventoryLogger.AssemblyInfo.cs
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q5-InventoryLogger\obj\Debug\net9.0\Q5-InventoryLogger.csproj.CoreCompileInputs.cache
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q5-InventoryLogger\obj\Debug\net9.0\Q5-InventoryLogger.sourcelink.json
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q5-InventoryLogger\obj\Debug\net9.0\Q5-InventoryLogger.dll
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q5-InventoryLogger\obj\Debug\net9.0\refint\Q5-InventoryLogger.dll
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q5-InventoryLogger\obj\Debug\net9.0\Q5-InventoryLogger.pdb
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q5-InventoryLogger\obj\Debug\net9.0\Q5-InventoryLogger.genruntimeconfig.cache
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q5-InventoryLogger\obj\Debug\net9.0\ref\Q5-InventoryLogger.dll
