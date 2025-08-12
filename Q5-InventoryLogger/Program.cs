@@ -66,7 +66,7 @@ class Program
         app.SeedSampleData();
         app.SaveData();
 
-        // Simulate new session
+        
         var app2 = new InventoryApp(path);
         app2.LoadData();
         Console.WriteLine("Loaded items:");
