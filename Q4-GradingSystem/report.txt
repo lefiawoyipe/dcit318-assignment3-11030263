@@ -1,0 +1,6 @@
+David Ntimm (ID: 101): Score = 84, Grade = A
+Randy Kumi (ID: 102): Score = 73, Grade = B
+Francis Duodo (ID: 103): Score = 58, Grade = D
+David Fitzgerald (ID: 104): Score = 90, Grade = A
+Kofi Duah (ID: 105): Score = 65, Grade = C
+Eve Amoako (ID: 106): Score = 20, Grade = F

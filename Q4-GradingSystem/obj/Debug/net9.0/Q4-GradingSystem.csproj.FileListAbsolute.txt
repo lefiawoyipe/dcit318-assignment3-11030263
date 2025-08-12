@@ -1,0 +1,15 @@
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q4-GradingSystem\bin\Debug\net9.0\Q4-GradingSystem.exe
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q4-GradingSystem\bin\Debug\net9.0\Q4-GradingSystem.deps.json
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q4-GradingSystem\bin\Debug\net9.0\Q4-GradingSystem.runtimeconfig.json
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q4-GradingSystem\bin\Debug\net9.0\Q4-GradingSystem.dll
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q4-GradingSystem\bin\Debug\net9.0\Q4-GradingSystem.pdb
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q4-GradingSystem\obj\Debug\net9.0\Q4-GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q4-GradingSystem\obj\Debug\net9.0\Q4-GradingSystem.AssemblyInfoInputs.cache
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q4-GradingSystem\obj\Debug\net9.0\Q4-GradingSystem.AssemblyInfo.cs
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q4-GradingSystem\obj\Debug\net9.0\Q4-GradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q4-GradingSystem\obj\Debug\net9.0\Q4-GradingSystem.sourcelink.json
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q4-GradingSystem\obj\Debug\net9.0\Q4-GradingSystem.dll
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q4-GradingSystem\obj\Debug\net9.0\refint\Q4-GradingSystem.dll
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q4-GradingSystem\obj\Debug\net9.0\Q4-GradingSystem.pdb
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q4-GradingSystem\obj\Debug\net9.0\Q4-GradingSystem.genruntimeconfig.cache
+C:\Users\elike\Desktop\dcit318-assignment3-11030263\Q4-GradingSystem\obj\Debug\net9.0\ref\Q4-GradingSystem.dll
